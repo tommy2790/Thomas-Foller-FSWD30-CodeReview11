@@ -1,0 +1,85 @@
+/*navbar*/
+
+#logo {
+    padding-left: 30%;
+}
+
+
+html {
+    background: url(http://www.webtekno.com/images/editor/default/0001/43/7de393a18b8395c2885ddee56ca58e0e3d175c60.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#registerbody {
+    background-color: transparent;
+}
+
+
+/*sign in form*/
+
+#signinform {
+
+    opacity: 0.9;
+    margin-right: 5%;
+}
+
+#signinform:hover {
+    opacity: 1;
+}
+
+/*logout*/
+
+#logoutbtn {
+    margin-right: 50%;
+    margin-top: 8%;
+    color: blue;
+
+}
+
+#logoutref {
+    color: white;
+}
+
+
+#btn-login {
+    width: 40%;
+    margin-left: 26%;
+    margin-top: 1%;
+    font-size: 1.5em;
+
+}
+
+
+/*registration form*/
+
+#registertxt {
+    color: white;
+}
+
+#registerlink {
+    color: white;
+    font-size: 1.4em
+}
+
+#regcontainer {
+    width: 50%;
+
+}
+
+#register {
+    color: white;
+}
+
+#intro {
+    opacity: 0.2;
+}
+
+#content {
+    opacity: 0.7;
+
+}
+
+/*nav
